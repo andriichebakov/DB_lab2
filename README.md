@@ -1,6 +1,6 @@
 # DB_lab2
 
-kekekekeke
+Лабораторна №2 з баз даних
 
 
 #sdfs
